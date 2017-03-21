@@ -3,4 +3,4 @@ Welcome to the ArcGIS Python API Sample Page.  These samples below were create b
 
 # List of Samples
 **Create CSV List of ArcGIS Online / Portal for ArcGIS Users **
-<script src="https://gist.github.com/jmirmelstein/0945550e21808b48c5a762906cd22f0a.js"></script>
+https://gist.github.com/jmirmelstein/0945550e21808b48c5a762906cd22f0a#file-arcgis-online-users-to-csv-py
